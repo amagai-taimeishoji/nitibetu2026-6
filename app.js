@@ -8,10 +8,10 @@ const API_URL = "https://script.google.com/macros/s/AKfycbzyk5ahv2nUacGdwFo2X6lx
 const YEAR = 2026;
 const MONTH = 6;
 const DAY_MIN = 1;
-const DAY_MAX = 15;
+const DAY_MAX = 30;
 
 // ローディングアニメーションの最大時間（ミリ秒）
-const LOADING_DURATION_MS = 30000; // 
+const LOADING_DURATION_MS = 15000; // 
 /* ----------------------------------------------------------------- */
 
 
